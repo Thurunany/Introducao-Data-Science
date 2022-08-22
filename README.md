@@ -1,4 +1,4 @@
-# Introducao a Data Science
+# Introdução a Data Science
 
 Repositorio de trabalhos feitos com base no curso Alura - Data Scrience: analise e visualização de dados.
 
