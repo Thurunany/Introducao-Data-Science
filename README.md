@@ -1,6 +1,6 @@
 # Introdução a Data Science
 
-Repositorio de trabalhos feitos com base no curso Alura - Data Scrience: analise e visualização de dados.
+Repositorio de trabalhos feitos com base no curso Alura - Data Scrience: analise e visualização de dados em 2022 para pratica e aplicação na meteria de probabilidade e estatistica.
 
 Primeira experiencia mexendo com data science, utilizando Panda e Seaborn, rodando no google collab.
 
